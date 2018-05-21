@@ -1,0 +1,88 @@
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.pdb
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BEL.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.UI.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.UT.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Oracle.DataAccess.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BEL.pdb
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.UI.pdb
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.pdb
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.UT.pdb
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.csprojResolveAssemblyReference.cache
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.dll
+C:\Users\SuraAdmin\Desktop\Desarrollos\Otros beneficios- bulkcopy\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.pdb
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.pdb
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BEL.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.UI.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.UT.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Oracle.DataAccess.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BEL.pdb
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.UI.pdb
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.pdb
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.UT.pdb
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.dll
+C:\Users\usuario\Documents\Indra-proyectos\SURA\AFP\Entregas\RQ_2417\Fase 3 - Desarrollo\D1\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.pdb
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.pdb
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BEL.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.UI.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.UT.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Oracle.DataAccess.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.Unity.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BEL.pdb
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.UI.pdb
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.pdb
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.UT.pdb
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.csprojResolveAssemblyReference.cache
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.dll
+C:\OB-Desarrollo\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.pdb
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.pdb
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BEL.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.UI.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.UT.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Oracle.DataAccess.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BEL.pdb
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.UI.pdb
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.pdb
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\CL.ING.PENSIONES.BENEFICIOS.DAL.UT.pdb
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.csprojResolveAssemblyReference.cache
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.dll
+C:\Users\z1\Downloads\OB-Desarrollo02032017\MODULO OTROS BENEFICIOS\CL.ING.PENSIONES.BENEFICIOS.BLL\obj\Release\CL.ING.PENSIONES.BENEFICIOS.BLL.pdb

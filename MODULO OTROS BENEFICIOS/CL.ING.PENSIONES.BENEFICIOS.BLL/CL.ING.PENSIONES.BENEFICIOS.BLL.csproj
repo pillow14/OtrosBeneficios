@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E3C6EA7B-7821-4DD4-A87D-58FFAC04BA65}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CL.ING.PENSIONES.BENEFICIOS.BLL</RootNamespace>
+    <AssemblyName>CL.ING.PENSIONES.BENEFICIOS.BLL</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnalisisDatosBLL.cs" />
+    <Compile Include="CargaInformacionBLL.cs" />
+    <Compile Include="EmisionInformesArchivoBLL.cs" />
+    <Compile Include="GenerarReporteComparativoBLL.cs" />
+    <Compile Include="LogBLL.cs" />
+    <Compile Include="MigracionSumarioBLL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SolicitudPagoTesoreriaBLL.cs" />
+    <Compile Include="ValidacionConsistenciaBLL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CL.ING.PENSIONES.BENEFICIOS.BEL\CL.ING.PENSIONES.BENEFICIOS.BEL.csproj">
+      <Project>{79CE8F96-4F02-49AC-A7BD-4E0188616365}</Project>
+      <Name>CL.ING.PENSIONES.BENEFICIOS.BEL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CL.ING.PENSIONES.BENEFICIOS.BLL.UI\CL.ING.PENSIONES.BENEFICIOS.BLL.UI.csproj">
+      <Project>{99CE60F7-C65D-40F9-8747-14D768713911}</Project>
+      <Name>CL.ING.PENSIONES.BENEFICIOS.BLL.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CL.ING.PENSIONES.BENEFICIOS.DAL\CL.ING.PENSIONES.BENEFICIOS.DAL.csproj">
+      <Project>{68E8E13D-A377-4C94-9B76-21B36C64B959}</Project>
+      <Name>CL.ING.PENSIONES.BENEFICIOS.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
